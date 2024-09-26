@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasmiArduini
 - 👀 I’m interested in learn more about the area and gain experience.
 - 🌱 I’m currently learning JAVA back end.
-- 💞️ I’m looking to collaborate on 
+- ☕️ At the moment I am not available to make any collaboration. 
 - 📫 How to reach me arduiniyasmi@gmail.com
 - 😄 Pronouns: she/her
 
