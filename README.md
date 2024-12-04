@@ -3,7 +3,7 @@
 - 🌱 Already trained in JAVA back end.
 - 💻 Currently learning PHP.
 - ☕️ At the moment I am not available to make any collaboration. 
-- 📫 How to reach me arduiniyasmi@gmail.com
+- 📫 How to reach me arduiniyasmi@outlook.com
 - 😄 Pronouns: she/her
 
 
