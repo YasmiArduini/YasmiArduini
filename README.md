@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasmiArduini
 - 👀 I’m interested in learning more about the area and gaining experience.
-- 🌱 Already trained in JAVA back end.
-- 💻 Currently learning PHP.
+- 🌱 Already trained in JAVA back-end.
+- 💻 Currently learning Phyton and C#.
 - ☕️ At the moment I am not available to make any collaboration. 
 - 📫 How to reach me arduiniyasmi@outlook.com
 - 😄 Pronouns: she/her
